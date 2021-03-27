@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="Start:">Start</entry>
+<entry key="Settings:">Einstellungen</entry>
+<entry key="Exit:">Verlassen</entry>
+<entry key="Language:">Sprache</entry>
+<entry key="Volume:">Lautstärke</entry>
+<entry key="FullScreen:">Vollbild</entry>
+<entry key="Back:">Zurück</entry>
+<entry key="You need more money:">Du brauchst mehr Geld</entry>
+</properties>
